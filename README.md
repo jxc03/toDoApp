@@ -1,10 +1,13 @@
 <h1 align="center">
-  toDoApp
+  Todo App
 </h1>
 
 <p>
   I learnt how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements.
 </p>
+
+## Preview
+https://github.com/user-attachments/assets/539a5ffb-bfe3-40fc-8aad-5eafbf392a12
 
 ## Steps
 **S1**<br>
